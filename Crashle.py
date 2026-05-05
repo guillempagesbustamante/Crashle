@@ -1,5 +1,5 @@
 from PySide6 import QtWidgets, QtCore
-from ui_new4test import Ui_MainWindow as form_class
+from new4test import Ui_MainWindow as form_class
 
 
 class Pantalla(QtWidgets.QMainWindow, form_class):
